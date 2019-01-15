@@ -37,7 +37,7 @@ log_file_append = true
 [mining]
 
 # whether to run the tui
-run_tui = true
+run_tui = false
 
 # listening grin stratum server url
 stratum_server_addr = "us-east-stratum.grinmint.com:4416"
